@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaionChan
-- 👀 Currently, I'm studying in the field of Computer Engineering ^^
+- 👀 Currently, I'm studying in the field of Computer Science ^^
 - 🌱 I’m learning Python, JavaScript, C++, and PHP.
 - 💞️ I’m looking to collaborate on Git!
 - 📫 How to reach me DM me in Instagram @chacasta_staria
