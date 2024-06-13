@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RaionChan
+- 👋 Hi, I’m @Adinda Salsabila
 - 👀 Currently, I'm studying in the field of Computer Science ^^
-- 🌱 I’m learning Python, JavaScript, C++, and PHP.
+- 🌱 I’m learning Python, JavaScript, C++, React.js, and PHP.
 - 💞️ I’m looking to collaborate on Git!
 - 📫 How to reach me DM me in Instagram @chacasta_staria
 
